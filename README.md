@@ -1,48 +1,66 @@
-# Hi there 👋, I'm Ibrahim  
+# 👋 Hello, I'm Ibrahim Mintal
 
-🌍Devops Engineer and Solutions Archetict | ☁️ AWS | 🛠️ Automation with Ansible & Terraform  
-
----
-
-## 🚀 About Me  
-- 💻 Passionate about **Cloud & DevOps**  
-- ☁️ AWS Certified Cloud Practitioner  
-- 🔧 Automating infrastructure with **Terraform & Ansible**  
-- 🐳 Exploring **Docker & Kubernetes**  
-- 🌍 Open to opportunities in the **Gulf region & remote**  
+### DevOps Engineer | Solutions Architect  
+*Driving cloud innovation through automation and scalable infrastructure.*
 
 ---
 
-## 🏆 GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+📍 Based in Alexandria, Egypt  
+✉️ [ibrahim.mintal@gmail.com](mailto:ibrahim.mintal@gmail.com) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ibrahimmintal/)
 
 ---
 
-## 📊 GitHub Stats  
-![Hima's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+## 🛠️ What I Do
+
+With over a decade of hands-on experience, I architect robust, secure, and scalable IT solutions by leveraging cutting-edge cloud technologies and automation frameworks.
+
+- **Cloud Expertise:** AWS, Azure, Google Cloud Platform (GCP)  
+- **Automation:** Terraform | Ansible | Jenkins  
+- **Containerization & Orchestration:** Docker | Kubernetes  
+- **Operating Systems:** Linux (Ubuntu, CentOS), Windows Server  
+- **Security:** Identity & Access Management (IAM), VPN, Firewalls, Data Encryption
+
+Currently focused on optimizing CI/CD pipelines and pioneering serverless architecture deployments.
 
 ---
 
-## 🔥 GitHub Streak  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical)](https://git.io/streak-stats)
+## ⚙️ GitHub Activity & Stats
+
+![GitHub User Stats](https://github-readme-stats.vercel.app/api?username=ibrahim-mintal&show_icons=true&theme=dracula)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahim-mintal&theme=dracula)
 
 ---
 
-## 🛠️ Skills & Tools  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🔧 Skills & Technologies
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
----
-
-## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ibrahimmintal/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahim.mintal@gmail.com)  
+</div>
 
 ---
 
-✨ _“Automating today for a better tomorrow”_ ✨
+## 🏆 Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ibrahim-mintal&theme=dracula&no-frame=true&margin-w=15&margin-h=15)
+
+---
+
+## 🤝 Connect with Me
+
+I'm always open to discussing cloud solutions, DevOps practices, and collaboration opportunities. Feel free to reach out!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ibrahimmintal/)  
+- 📧 [Email me](mailto:ibrahim.mintal@gmail.com)
+
+---
+
+✨ *“Automating today for a better tomorrow.”*
