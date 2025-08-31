@@ -17,7 +17,6 @@ With over 10 years of experience in IT operations, I specialize in designing and
 - 🛠️ **Automation Tools**: Terraform, Ansible, Jenkins  
 - 🐳 **Containerization**: Docker, Kubernetes  
 - 🖥️ **Operating Systems**: Linux (Ubuntu, CentOS), Windows Server  
-- 🔐 **Security**: IAM, VPNs, Firewalls, Encryption
 
 Currently, I'm focusing on enhancing CI/CD pipelines and exploring serverless architectures.
 
